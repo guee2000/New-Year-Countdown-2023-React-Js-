@@ -1,7 +1,7 @@
 # New-Year-Countdown-2023-React-Js-
 ### Simple New Year Countdown Timer (React Js)
 
-### Guidance => [README.md](https://github.com/guee2000/New-Year-Countdown-2023-React-Js-/files/9094983/README.md)
+### Node Package Manager(NPM) Guidance => [README.md](https://github.com/guee2000/New-Year-Countdown-2023-React-Js-/files/9094983/README.md)
 
 #### Loading Screen when loading countdown timer.
 https://user-images.githubusercontent.com/73164758/178708243-88f3f40d-479f-41d3-8a84-a1d9e5eaf4e2.mp4
