@@ -21,9 +21,9 @@ cd my-app
 npm start
 ` ` `
 
-3. Delete all files in src folder.
+3. Delete public and src folder in the application folder.
 
-4. Download and paste the files of this repository's src folder into the your application's src folder.
+4. Download and paste the public and src folder into your application folder.
 
 5. Refresh your localhost website and it will works.
 
