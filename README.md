@@ -1,8 +1,33 @@
 # New-Year-Countdown-2023-React-Js-
 ### Simple New Year Countdown Timer (React Js)
 
-### Node Package Manager(NPM) Guidance => [README.md](https://github.com/guee2000/New-Year-Countdown-2023-React-Js-/files/9094983/README.md)
+1. Install React by running the command in your terminal.
 
+` ` `
+npm install -g create-react-app
+` ` `
+
+2. Create a React application and activate it in localhost by running these commands.
+
+` ` ` 
+npx create-react-app my-app
+` ` ` 
+
+` ` ` 
+cd my-app
+` ` ` 
+
+` ` ` 
+npm start
+` ` `
+
+3. Delete all files in src folder.
+
+4. Download and paste the files of this repository's src folder into the your application's src folder.
+
+5. Refresh your localhost website and it will works.
+
+# Sample 
 #### Loading Screen when loading countdown timer.
 https://user-images.githubusercontent.com/73164758/178708243-88f3f40d-479f-41d3-8a84-a1d9e5eaf4e2.mp4
 
